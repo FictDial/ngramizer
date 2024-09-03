@@ -1,4 +1,5 @@
 # nGramIzer
+created by Károly Füzessi and Lilla Magyari
 
 This program calculates the forward conditional probability and backward conditional probability of Norwegian Bokmål words in sentences in a text file. The probability calculation is based the formulae in [Onnis et al. (2022)](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13201) and uses data from the n-gram database from the National Library of Norway.
 
@@ -36,3 +37,7 @@ The generated CSV will contain the following columns:
 - Word
 - Forward Probability
 - Backward Probability
+
+### Funding statement
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 845343.
+Project's website: https://www.uis.no/nb/lesesenteret/fictdial
